@@ -1,0 +1,4 @@
+configuration {
+/* dark theme from pywal */
+theme: "~/.cache/wal/colors-rofi-dark.rasi";
+}
