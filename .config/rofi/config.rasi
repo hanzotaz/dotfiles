@@ -1,4 +1,6 @@
 configuration {
 /* dark theme from pywal */
 theme: "~/.cache/wal/colors-rofi-dark.rasi";
+modi: "window,drun,ssh,combi";
+combi-modi: "window,drun,ssh";
 }
