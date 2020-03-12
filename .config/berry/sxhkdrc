@@ -34,10 +34,10 @@ alt + {h, j, k, l}
 alt + shift +  {h, j, k, l}
     berryc window_resize {-50 0, 0 50, 0 -50, 50 0}
 
-alt + {1-4}
+alt + {1-5}
     berryc switch_workspace {0-5}
 
-alt + shift + {0-4}
+alt + shift + {1-5}
     berryc send_to_workspace {0-5}
 
 alt + m

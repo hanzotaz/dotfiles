@@ -47,12 +47,12 @@ Workspace() {
 	fi
 }
 
-Song() {
-	NP=$(ncmpcpp --current-song "%a - %t")
-	echo -e "$NP"
-}
+#Song() {
+#	NP=$(ncmpcpp --current-song "%a - %t")i <-- replace with cmus
+#	echo -e "$NP"
+#}
 
 while true; do
-	echo -e "%{l} %{R} $(Workspace) %{R}" "%{c}$(Song)" "%{r}$(Battery)  $(Clock) "
+	echo -e "%{l} %{R} $(Workspace) %{R}" "%{r}$(Battery)  $(Clock) "
 	sleep 0.1s
 done
