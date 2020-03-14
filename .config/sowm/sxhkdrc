@@ -1,0 +1,25 @@
+#
+# wm independent hotkeys
+#
+
+# terminal emulator
+ctrl + alt + t
+	kitty
+
+# program launcher
+alt + d
+	rofi -show drun
+
+# volume control
+XF86AudioRaiseVolume
+	pactl set-sink-volume @DEFAULT_SINK@ +5%
+
+XF86AudioLowerVolume
+	pactl set-sink-volume @DEFAULT_SINK@ -5%
+
+XF86AudioMute
+	pactl set-sink-mute @DEFAULT_SINK@ toggle
+
+# make sxhkd reload its configuration files
+super + Escape
+	pkill -USR1 -x sxhkd
