@@ -1,3 +1,5 @@
+/* Rofi Theme generated with Pywal */
+
 * {
     active-background: #3a58b0;
     active-foreground: @foreground;
