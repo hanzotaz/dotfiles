@@ -1,1 +1,5 @@
 q
+set status_display_program=~/.config/cmus/cmus_notify.sh
+set status_display_program=/home/taz/.config/cmus/CmusNotify
+set start_display_program=~/.config/cmus/cmus_notify.sh
+add ~/Music/
