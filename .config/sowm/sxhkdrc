@@ -10,6 +10,10 @@ ctrl + alt + t
 alt + d
 	rofi -show drun
 
+# web browser
+alt + w
+	chromium
+
 # volume control
 XF86AudioRaiseVolume
 	pactl set-sink-volume @DEFAULT_SINK@ +5%

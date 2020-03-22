@@ -139,6 +139,18 @@
 /home/taz/Music/K0RN2O19TN-32O/11-korn-hard3r.mp3
 /home/taz/Music/K0RN2O19TN-32O/12-korn-this_loss.mp3
 /home/taz/Music/K0RN2O19TN-32O/13-korn-surrender_to_failure.mp3
+/home/taz/Music/Mushroomhead - Beautiful Stories For Ugly Children (2010)/01 Come On.mp3
+/home/taz/Music/Mushroomhead - Beautiful Stories For Ugly Children (2010)/02 Inspiration.mp3
+/home/taz/Music/Mushroomhead - Beautiful Stories For Ugly Children (2010)/03 Slaughterhouse Road.mp3
+/home/taz/Music/Mushroomhead - Beautiful Stories For Ugly Children (2010)/04 I'll Be Here.mp3
+/home/taz/Music/Mushroomhead - Beautiful Stories For Ugly Children (2010)/05 Burn The Bridge.mp3
+/home/taz/Music/Mushroomhead - Beautiful Stories For Ugly Children (2010)/06 Holes In The Void.mp3
+/home/taz/Music/Mushroomhead - Beautiful Stories For Ugly Children (2010)/07 Harvest The Garden.mp3
+/home/taz/Music/Mushroomhead - Beautiful Stories For Ugly Children (2010)/08 The Harm You Do.mp3
+/home/taz/Music/Mushroomhead - Beautiful Stories For Ugly Children (2010)/09 Your Demise.mp3
+/home/taz/Music/Mushroomhead - Beautiful Stories For Ugly Children (2010)/10 The Feel.mp3
+/home/taz/Music/Mushroomhead - Beautiful Stories For Ugly Children (2010)/11 Darker Days.mp3
+/home/taz/Music/Mushroomhead - Beautiful Stories For Ugly Children (2010)/12 Do I Know You_.mp3
 /home/taz/Music/Opeth/2005 - Ghost Reveries/01 - Ghost of Perdition.mp3
 /home/taz/Music/Opeth/2005 - Ghost Reveries/02 - Baying of the Hounds.mp3
 /home/taz/Music/Opeth/2005 - Ghost Reveries/03 - Beneath the Mire.mp3
