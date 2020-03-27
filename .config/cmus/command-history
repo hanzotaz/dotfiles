@@ -1,9 +1,10 @@
 q
 Q
+add ~/Music/
+wq
 a
 A
 add ~/Music/Mushroomhead - Beautiful Stories For Ugly Children (2010)/
 set status_display_program=~/.config/cmus/cmus_notify.sh
 set status_display_program=/home/taz/.config/cmus/CmusNotify
 set start_display_program=~/.config/cmus/cmus_notify.sh
-add ~/Music/

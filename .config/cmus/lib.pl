@@ -44,6 +44,19 @@
 /home/taz/Music/Bring_Me_the_Horizon/Bring Me the Horizon - Music to listen to~dance to~blaze to~pray to~feed to~sleep to~talk to~grind to~trip to~breathe to~help to~hurt to~scroll to~roll t (2019) [320]/6 - _like seeing spiders running riot on your lover's grave_.mp3
 /home/taz/Music/Bring_Me_the_Horizon/Bring Me the Horizon - Music to listen to~dance to~blaze to~pray to~feed to~sleep to~talk to~grind to~trip to~breathe to~help to~hurt to~scroll to~roll t (2019) [320]/7 - Dead Dolphin Sounds 'aid brain growth in unborn child' Virtual Therapy _ Nature Healing 2 Hours.mp3
 /home/taz/Music/Bring_Me_the_Horizon/Bring Me the Horizon - Music to listen to~dance to~blaze to~pray to~feed to~sleep to~talk to~grind to~trip to~breathe to~help to~hurt to~scroll to~roll t (2019) [320]/8 - ±ªþ³§.mp3
+/home/taz/Music/Crown The Empire - Retrograde (2016)/01. SK-68 - Crown The Empire.mp3
+/home/taz/Music/Crown The Empire - Retrograde (2016)/02. Are You Coming With Me - Crown The Empire.mp3
+/home/taz/Music/Crown The Empire - Retrograde (2016)/03. Zero - Crown The Empire.mp3
+/home/taz/Music/Crown The Empire - Retrograde (2016)/04. Aftermath - Crown The Empire.mp3
+/home/taz/Music/Crown The Empire - Retrograde (2016)/05. Hologram - Crown The Empire.mp3
+/home/taz/Music/Crown The Empire - Retrograde (2016)/06. The Fear Is Real - Crown The Empire.mp3
+/home/taz/Music/Crown The Empire - Retrograde (2016)/07. Lucky Us - Crown The Empire.mp3
+/home/taz/Music/Crown The Empire - Retrograde (2016)/08. Weight Of The World - Crown The Empire.mp3
+/home/taz/Music/Crown The Empire - Retrograde (2016)/09. Signs Of Life - Crown The Empire.mp3
+/home/taz/Music/Crown The Empire - Retrograde (2016)/10. Oxygen - Crown The Empire.mp3
+/home/taz/Music/Crown The Empire - Retrograde (2016)/11. Kaleidoscope - Crown The Empire.mp3
+/home/taz/Music/Crown The Empire - Retrograde (2016)/12. For Days - Crown The Empire.mp3
+/home/taz/Music/Crown The Empire - Retrograde (2016)/13. Mercury - Crown The Empire.mp3
 /home/taz/Music/Crown The Empire - Sudden Sky (2019) 320/1 - (X).mp3
 /home/taz/Music/Crown The Empire - Sudden Sky (2019) 320/2 - 20_20.mp3
 /home/taz/Music/Crown The Empire - Sudden Sky (2019) 320/3 - what i am.mp3
@@ -246,3 +259,12 @@
 /home/taz/Music/Slipknot/SL1PKN0T-19WANYK-32O/12 My Pain.mp3
 /home/taz/Music/Slipknot/SL1PKN0T-19WANYK-32O/13 Not Long for This World.mp3
 /home/taz/Music/Slipknot/SL1PKN0T-19WANYK-32O/14 Solway Firth.mp3
+/home/taz/Music/The Birthday Massacre - Diamonds (2020)/01. Enter.mp3
+/home/taz/Music/The Birthday Massacre - Diamonds (2020)/02. The Sky Will Turn.mp3
+/home/taz/Music/The Birthday Massacre - Diamonds (2020)/03. Diamonds.mp3
+/home/taz/Music/The Birthday Massacre - Diamonds (2020)/04. Run.mp3
+/home/taz/Music/The Birthday Massacre - Diamonds (2020)/05. Flashback.mp3
+/home/taz/Music/The Birthday Massacre - Diamonds (2020)/06. Last Goodbye.mp3
+/home/taz/Music/The Birthday Massacre - Diamonds (2020)/07. Crush.mp3
+/home/taz/Music/The Birthday Massacre - Diamonds (2020)/08. Mirrors.mp3
+/home/taz/Music/The Birthday Massacre - Diamonds (2020)/09. Parallel World.mp3
