@@ -3,16 +3,20 @@
 #
 
 # terminal emulator
-ctrl + alt + t
+alt + Return
 	kitty
 
 # program launcher
-alt + d
+ctrl + d
 	rofi -show drun
 
 # web browser
-alt + w
+ctrl + w
 	chromium
+
+# file manager
+ctrl + f
+	pcmanfm
 
 # volume control
 XF86AudioRaiseVolume
