@@ -1,11 +1,9 @@
-/* Rofi Theme generated with Pywal */
-
 * {
-    active-background: #3a58b0;
+    active-background: #5E6A8D;
     active-foreground: @foreground;
     normal-background: @background;
     normal-foreground: @foreground;
-    urgent-background: #363ba2;
+    urgent-background: #515487;
     urgent-foreground: @foreground;
 
     alternate-active-background: @background;
@@ -15,11 +13,11 @@
     alternate-urgent-background: @background;
     alternate-urgent-foreground: @foreground;
 
-    selected-active-background: #363ba2;
+    selected-active-background: #515487;
     selected-active-foreground: @foreground;
-    selected-normal-background: #3a58b0;
+    selected-normal-background: #5E6A8D;
     selected-normal-foreground: @foreground;
-    selected-urgent-background: #c24a91;
+    selected-urgent-background: #A5688C;
     selected-urgent-foreground: @foreground;
 
     background-color: @background;
