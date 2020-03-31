@@ -16,7 +16,7 @@ ctrl + w
 
 # file manager
 ctrl + f
-	kitty ranger
+	thunar
 
 # volume control
 XF86AudioRaiseVolume
