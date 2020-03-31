@@ -16,7 +16,7 @@ ctrl + w
 
 # file manager
 ctrl + f
-	pcmanfm
+	kitty ranger
 
 # volume control
 XF86AudioRaiseVolume
