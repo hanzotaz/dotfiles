@@ -1,0 +1,26 @@
+sw_volume: 100
+audio_device_state:1:pulse audio
+audio_device_state:1:my_fifo
+state: stop
+random: 0
+repeat: 0
+single: 0
+consume: 0
+crossfade: 0
+mixrampdb: 0.000000
+mixrampdelay: -1.000000
+playlist_begin
+0:Crown The Empire - Retrograde (2016)/01. SK-68 - Crown The Empire.mp3
+1:Crown The Empire - Retrograde (2016)/02. Are You Coming With Me - Crown The Empire.mp3
+2:Crown The Empire - Retrograde (2016)/03. Zero - Crown The Empire.mp3
+3:Crown The Empire - Retrograde (2016)/04. Aftermath - Crown The Empire.mp3
+4:Crown The Empire - Retrograde (2016)/05. Hologram - Crown The Empire.mp3
+5:Crown The Empire - Retrograde (2016)/06. The Fear Is Real - Crown The Empire.mp3
+6:Crown The Empire - Retrograde (2016)/07. Lucky Us - Crown The Empire.mp3
+7:Crown The Empire - Retrograde (2016)/08. Weight Of The World - Crown The Empire.mp3
+8:Crown The Empire - Retrograde (2016)/09. Signs Of Life - Crown The Empire.mp3
+9:Crown The Empire - Retrograde (2016)/10. Oxygen - Crown The Empire.mp3
+10:Crown The Empire - Retrograde (2016)/11. Kaleidoscope - Crown The Empire.mp3
+11:Crown The Empire - Retrograde (2016)/12. For Days - Crown The Empire.mp3
+12:Crown The Empire - Retrograde (2016)/13. Mercury - Crown The Empire.mp3
+playlist_end
