@@ -14,19 +14,19 @@ Battery() {
 	elif [[ $BATTACPI == *"Discharging"* ]]; then
 		BATPERC=${BATPERC::-1}
 		if [[ $BATPERC -le "10" ]]; then
-			echo -e -n "\uf244"
+			echo -e -n "\uf582"
 		elif [[ $BATPERC -le "25" ]]; then
-			echo -e -n "\uf243"
+			echo -e -n "\uf57a"
 		elif [[ $BATPERC -le "50" ]]; then
-			echo -e -n "\uf242"
+			echo -e -n "\uf57d"
 		elif [[ $BATPERC -le "75" ]]; then
-			echo -e -n "\uf241"
+			echo -e -n "\uf57f"
 		elif [[ $BATPERC -le "100" ]]; then
-			echo -e -n "\uf240"
+			echo -e -n "\uf578"
 		fi
 		echo -e " $BATPERC"
 	elif [[ $BATTACPI == *"Charging"* && $BATTACPI != *"100%"* ]]; then
-		echo -e "\uf0e7 $BATPERC"
+		echo -e "\uf583 $BATPERC"
 	elif [[ $BATTACPI == *"Unknown"* ]]; then
 		echo -e " $BATPERC"
 	fi	
@@ -49,10 +49,18 @@ Battery() {
 
 Song() {
 	NP=$(ncmpcpp --current-song "%a - %t")
-	echo -e "$NP"
+	STATUS=$(mpc | sed -n '1!p' | sed -n '2!p' | awk '{print $1}' | sed 's/[][]//g')
+
+	if [[ $STATUS == *"playing"* ]]; then
+		echo -e "\uf04b $NP"
+	elif [[ $STATUS == *"pause"* ]]; then
+		echo -e "\uf04c $NP"
+	else
+		echo -e "\uf04d $NP"
+	fi
 }
 
 while true; do
-	echo -e  " %{l} $(Song)" "%{r}$(Battery)  $(Clock) "
+	echo -e  " %{l} \ufc26   $(Song)" "%{c} $(echo taz@whocares)" "%{r}$(Battery)  $(Clock)   \ufc26 "
 	sleep 0.1s
 done
