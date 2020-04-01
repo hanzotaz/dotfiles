@@ -1,7 +1,7 @@
 # Dotfiles
 
 ![blank_screenshot]
-(/images/blank_screenshot.jpg)
+(/images/blank_screenshot.png)
 
 ![busy_screenshot]
-(/images/busy_screenshot.jpg)
+(/images/busy_screenshot.png)
