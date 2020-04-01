@@ -9,10 +9,10 @@ busy screenshot.
 ## programs used
 
 
-terms    ··· kitty  
-shell    ··· zsh  
-wm       ··· sowm  
-bar      ··· lemonbar  
-editor   ··· vim  
-launcher ··· rofi  
-music    ··· mpd + ncmpcpp  
+ˣˣˣ terms  ˣˣˣ kitty ˣˣˣ  
+ˣˣˣ shell  ˣˣˣ zsh ˣˣˣ  
+ˣˣˣ wm  ˣˣˣ sowm ˣˣˣ  
+ˣˣˣ bar  ˣˣˣ lemonbar ˣˣˣ  
+ˣˣˣ editor  ˣˣˣ vim ˣˣˣ  
+ˣˣˣ launcher ˣˣˣ rofi ˣˣˣ  
+ˣˣˣ music  ˣˣˣ mpd + ncmpcpp ˣˣˣ  
