@@ -7,8 +7,9 @@ Screenshot featuring wallpaper and bar.
 busy screenshot.
 
 ## programs used
+
 programs
------|------
+------------
 terms | kitty
 shell | zsh
 wm | sowm
