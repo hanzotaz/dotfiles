@@ -27,32 +27,32 @@ Battery() {
 		echo -e " $BATPERC"
 	elif [[ $BATTACPI == *"Charging"* && $BATTACPI != *"100%"* ]]; then
 		echo -e "\uf0e7 $BATPERC"
-	elif [ $BATTACPI == *"Unknown"* ]; then
+	elif [[ $BATTACPI == *"Unknown"* ]]; then
 		echo -e " $BATPERC"
 	fi	
 }
 
-Workspace() {
-	CURRENT=$(xprop -root _NET_CURRENT_DESKTOP | awk '{print $3}')
-	#echo -e "$CURRENT" <--- for testing
-
-	if [[ $CURRENT == 0 ]]; then
-		echo "I"
-	elif [[ $CURRENT == 1 ]]; then
-		echo "II"
-	elif [[ $CURRENT == 2 ]]; then
-		echo "III"
-	elif [[ $CURRENT == 3 ]]; then
-		echo "IV"
-	fi
-}
-
-#Song() {
-#	NP=$(ncmpcpp --current-song "%a - %t")i <-- replace with cmus
-#	echo -e "$NP"
+#Workspace() {
+#	CURRENT=$(xprop -root _NET_CURRENT_DESKTOP | awk '{print $3}')
+#	#echo -e "$CURRENT" <--- for testing
+#
+#	if [[ $CURRENT == 0 ]]; then
+#		echo "I"
+#	elif [[ $CURRENT == 1 ]]; then
+#		echo "II"
+#	elif [[ $CURRENT == 2 ]]; then
+#		echo "III"
+#	elif [[ $CURRENT == 3 ]]; then
+#		echo "IV"
+#	fi
 #}
 
+Song() {
+	NP=$(ncmpcpp --current-song "%a - %t")i
+	echo -e "$NP"
+}
+
 while true; do
-	echo -e "%{l} %{R} $(Workspace) %{R}" "%{r}$(Battery)  $(Clock) "
+	echo -e  " %{l} $(Song)" "%{r}$(Battery)  $(Clock) "
 	sleep 0.1s
 done
