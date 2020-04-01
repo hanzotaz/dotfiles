@@ -3,7 +3,7 @@
 picom &
 xfce4-power-manager &
 sxhkd -c /home/taz/.config/sowm/sxhkdrc &
-feh --bg-fill /home/taz/Pictures/wallpapers/yyyibXc.jpg &
+feh --bg-fill /home/taz/Pictures/wallpapers/59FwBTe.jpg &
 #python -m SimpleHTTPServer 8085 &
 #bash ~/.config/lemonbar/config.sh | bash ~/.config/lemonbar/lemonbar.sh &
 
