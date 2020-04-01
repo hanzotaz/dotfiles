@@ -1,0 +1,10 @@
+# mpd stuff
+
+.config/mpd/mpd.db
+.config/mpd/mpd.log
+.config/mpd/mpd.pid
+.config/mpd/mpdstate
+
+# ncmpcpp stuff
+.config/ncmpcpp/error.log
+.config/ncmpcpp/lyrics/
