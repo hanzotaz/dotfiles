@@ -48,7 +48,7 @@ Battery() {
 #}
 
 Song() {
-	NP=$(ncmpcpp --current-song "%a - %t")i
+	NP=$(ncmpcpp --current-song "%a - %t")
 	echo -e "$NP"
 }
 
