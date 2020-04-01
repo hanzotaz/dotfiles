@@ -10,9 +10,9 @@ busy screenshot.
 
 +++++++++++++++++++++++  
 +++++++++++++++++++++++  
-+++ **terms** --> kitty +++  
-+++ **shell** --> zsh +++ 
-+++ **wm** --> sowm +++  
++++ **terms**  --> kitty +++   
++++ **shell**   --> zsh +++  
++++ **wm**    --> sowm +++  
 +++ **bar** --> lemonbar +++  
 +++ **editor** --> vim +++  
 +++**launcher** --> rofi +++  
