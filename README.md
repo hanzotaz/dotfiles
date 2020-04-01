@@ -1,7 +1,7 @@
-# Dotfiles
+# taz's dotfiles ...
 
 ![blank_screenshot](images/blank_screenshot.png)
-Format:![Alt Text](url)
+Screenshot featuring wallpaper and bar.
 
 ![busy_screenshot](images/busy_screenshot.png)
-Format:![Alt Text](url)
+busy screenshot.
