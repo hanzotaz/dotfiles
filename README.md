@@ -9,18 +9,18 @@ Screenshot featuring wallpaper and bar.
 ![busy_screenshot](images/busy_screenshot.png)
 busy screenshot.
 
-## programs used
+## 𝚙𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚎𝚜 𝚞𝚜𝚎𝚍
 
 ```
-+++++++++++++++++++++++++++++++++++++++  
-+++++++++++++++++++++++++++++++++++++++  
-+++ **terms**   --> kitty · termite +++   
-+++ **shell**   --> zsh             +++  
-+++ **wm**      --> sowm            +++  
-+++ **bar**     --> lemonbar        +++  
-+++ **editor**  --> vim             +++  
-+++**launcher** --> rofi            +++  
-+++ **music**   --> mpd · ncmpcpp   +++  
-+++++++++++++++++++++++++++++++++++++++  
-+++++++++++++++++++++++++++++++++++++++  
++++++++++++++++++++++++++++++++++++++  
++++++++++++++++++++++++++++++++++++++  
++++ terms    --> kitty · termite  +++   
++++ shell    --> zsh              +++  
++++ wm       --> sowm             +++  
++++ bar      --> lemonbar         +++  
++++ editor   --> vim              +++  
++++ launcher --> rofi             +++  
++++ music    --> mpd · ncmpcpp    +++  
++++++++++++++++++++++++++++++++++++++  
++++++++++++++++++++++++++++++++++++++  
 ```
