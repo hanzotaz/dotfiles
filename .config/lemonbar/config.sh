@@ -48,7 +48,7 @@ Battery() {
 #}
 
 Song() {
-	NP=$(mpc current)
+	NP=$(ncmpcpp --current-song="%a - %t")
 	STATUS=$(mpc | sed -n '1!p' | sed -n '2!p' | awk '{print $1}' | sed 's/[][]//g')
 
 	if [[ $STATUS == *"playing"* ]]; then
