@@ -48,7 +48,7 @@ Battery() {
 #}
 
 Song() {
-	NP=$(ncmpcpp --current-song "%a - %t")
+	NP=$(mpc current)
 	STATUS=$(mpc | sed -n '1!p' | sed -n '2!p' | awk '{print $1}' | sed 's/[][]//g')
 
 	if [[ $STATUS == *"playing"* ]]; then
@@ -61,6 +61,6 @@ Song() {
 }
 
 while true; do
-	echo -e  " %{l} \ufc26   $(Song)" "%{c} $(echo taz@whocares)" "%{r}$(Battery)  $(Clock)   \ufc26 "
+	echo -e  " %{l} \ufc26   $(Song)" "%{c} $(whoami)@$(cat /proc/sys/kernel/hostname)" "%{r}$(Battery)  $(Clock)   \ufc26 "
 	sleep 0.1s
 done
