@@ -1,6 +1,6 @@
 #!/bin/sh
 
-picom &
+compton &
 xfce4-power-manager &
 mpd &
 sxhkd -c /home/taz/.config/sowm/sxhkdrc &
