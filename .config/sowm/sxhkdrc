@@ -48,6 +48,10 @@ ctrl + shift + o
 ctrl + shift + i
 	mpc prev
 
+# power menu
+super + x
+	bash /home/taz/.config/scripts/powermenu.sh
+
 # make sxhkd reload its configuration files
 super + Escape
 	pkill -USR1 -x sxhkd
