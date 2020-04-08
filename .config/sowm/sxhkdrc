@@ -2,9 +2,13 @@
 # wm independent hotkeys
 #
 
-# terminal emulator
+# terminal emulator = kitty
 alt + Return
 	kitty
+
+# terminal emulator = termite
+alt + shift + Return
+	termite
 
 # program launcher
 ctrl + d
@@ -18,9 +22,13 @@ ctrl + w
 ctrl + shift + w
 	chromium -incognito
 
-# file manager
+# file manager using thunar
 ctrl + f
 	thunar
+
+# file manager usign ranger
+ctrl + shift + f
+	kitty ranger
 
 # volume control
 XF86AudioRaiseVolume
