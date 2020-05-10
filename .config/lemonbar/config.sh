@@ -43,24 +43,11 @@ Battery() {
 #	elif [[ $CURRENT == 2 ]]; then
 #		echo "III"
 #	elif [[ $CURRENT == 3 ]]; then
-#		echo "IV"
+#	echo "IV"
 #	fi
 #}
 
-Song() {
-	NP=$(ncmpcpp --current-song="%a - %t")
-	STATUS=$(mpc | sed -n '1!p' | sed -n '2!p' | awk '{print $1}' | sed 's/[][]//g')
-
-	if [[ $STATUS == *"playing"* ]]; then
-		echo -e "\uf04b $NP"
-	elif [[ $STATUS == *"pause"* ]]; then
-		echo -e "\uf04c $NP"
-	else
-		echo -e "\uf04d $NP"
-	fi
-}
-
 while true; do
-	echo -e  " %{l} \ufc26   $(Song)" "%{c} $(whoami)@$(cat /proc/sys/kernel/hostname)" "%{r}$(Battery)  $(Clock)   \ufc26 "
+	echo -e  " %{r} $(Battery)  $(Clock) "
 	sleep 0.1s
 done

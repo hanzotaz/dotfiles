@@ -57,7 +57,7 @@ ctrl + shift + i
 	mpc prev
 
 # power menu
-super + x
+super + Return
 	bash /home/taz/.config/scripts/powermenu.sh
 
 # make sxhkd reload its configuration files
