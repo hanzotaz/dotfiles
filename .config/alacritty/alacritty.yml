@@ -35,8 +35,8 @@ window:
   # Blank space added around the window in pixels. This padding is scaled
   # by DPI and the specified value is always added at both opposing sides.
   padding:
-    x: 40
-    y: 40
+    x: 30
+    y: 30
 
   # Spread additional padding evenly around the terminal content.
   dynamic_padding: true
@@ -106,7 +106,7 @@ font:
     #   - (macOS) Menlo
     #   - (Linux) monospace
     #   - (Windows) Consolas
-    family: Curie
+    family: Cherry
 
     # The `style` can be specified to pick a specific face.
     #style: Retina
@@ -117,7 +117,7 @@ font:
     #
     # If the bold family is not specified, it will fall back to the
     # value specified for the normal font.
-    family: Curie
+    family: Cherry
 
     # The `style` can be specified to pick a specific face.
     #style: Retina
@@ -128,7 +128,7 @@ font:
     #
     # If the italic family is not specified, it will fall back to the
     # value specified for the normal font.
-    family: Curie
+    family: Cherry
 
     # The `style` can be specified to pick a specific face.
     #style: Italic
