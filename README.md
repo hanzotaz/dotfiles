@@ -1,7 +1,6 @@
 # ···· 🅃🄰🅉'🅂 🄳🄾🅃🅂 ·····  
 Colorscheme generated using pywal  
-with sample image in colorscheme folder.  
-ᴵ ᶜᵒᵘˡᵈ'ᵛᵉ ʲᵘˢᵗ ᶜʳᵉᵃᵗᵉ ᵗʰᵉ ᶜᵒˡᵒʳˢᶜʰᵉᵐᵉ ᵘˢᶦⁿᵍ ᵗʰᵉ ᶦᵐᵃᵍᵉ ᵐᵃⁿᵘᵃˡˡʸ ᵇᵘᵗ ᴵ'ᵐ ˡᵃᶻʸ.  
+with sample image in colorscheme folder.   
 
 ![blank_screenshot](images/blank_screenshot.png)
 Screenshot featuring wallpaper and bar.
