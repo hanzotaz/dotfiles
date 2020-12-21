@@ -1,6 +1,7 @@
 #!/bin/bash
 
 sxhkd -c /home/taz/.config/berry/sxhkdrc &
+feh --bg-fill /home/taz/dotfiles/images/wallpapers/OLmiJoH.png &
 picom &
 
 # Set decoration geometry

@@ -7,7 +7,7 @@ ctrl + alt + t
 	kitty
 
 # program launcher
-alt + d
+super + d
 	rofi -show drun
 
 # make sxhkd reload its configuration files:
@@ -18,40 +18,39 @@ super + Escape
 # berry hotkeys
 #
 
-alt + {h, j, k, l}
+super + {h, j, k, l}
     berryc window_move {-50 0, 0 50, 0 -50, 50 0}
 
-alt + shift +  {h, j, k, l}
+super + shift +  {h, j, k, l}
     berryc window_resize {-50 0, 0 50, 0 -50, 50 0}
 
-alt + {1-9}
+super + {1-9}
     berryc switch_workspace {0-9}
 
-alt + shift + {1-9}
+super + shift + {1-9}
     berryc send_to_workspace {0-9}
 
-alt + m
+super + m
     berryc window_monocle
 
-alt + f
+super + f
     berryc fullscreen
 
-alt +  p
+super +  p
     berryc snap_right
-
-alt + o 
+super + o 
     berryc snap_left
 
-alt + n
+super + n
     berryc toggle_decorations
 
-alt + Tab
+super + Tab
     berryc cycle_focus
 
-alt + q
+super + q
     berryc window_close
 
-alt + c
+super + c
     berryc window_center
 
 ~button1
