@@ -1,0 +1,24 @@
+wallpaper: "/home/taz/Pictures/wall.jpg"
+
+special:
+    background: "#296081"
+    foreground: "#e3e8ee"
+    cursor: "#e3e8ee"
+
+colors:
+    color0: "#296081"
+    color1: "#AAC4DD"
+    color2: "#96C3EA"
+    color3: "#ADCCED"
+    color4: "#C9D1DD"
+    color5: "#CDD6EE"
+    color6: "#FCCFF3"
+    color7: "#e3e8ee"
+    color8: "#9ea2a6"
+    color9: "#AAC4DD"
+    color10: "#96C3EA"
+    color11: "#ADCCED"
+    color12: "#C9D1DD"
+    color13: "#CDD6EE"
+    color14: "#FCCFF3"
+    color15: "#e3e8ee"
