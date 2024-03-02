@@ -13,11 +13,11 @@ busy screenshot.
 ```
 +++++++++++++++++++++++++++++++++++++  
 +++++++++++++++++++++++++++++++++++++  
-+++ terms    --> kitty · termite  +++   
++++ terms    --> kitty            +++   
 +++ shell    --> zsh              +++  
-+++ wm       --> sowm             +++  
++++ wm       --> herbstluftwm     +++  
 +++ bar      --> lemonbar         +++  
-+++ editor   --> vim              +++  
++++ editor   --> lazyvim          +++  
 +++ launcher --> rofi             +++  
 +++ music    --> mpd · ncmpcpp    +++  
 +++++++++++++++++++++++++++++++++++++  
