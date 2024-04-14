@@ -8,8 +8,9 @@ hc() {
 
 hc emit_hook reload
 
-feh --bg-fill wall/krakon.jpg &
+feh --bg-fill Pictures/wall/narwhal.png &
 picom &
+udiskie &
 
 # remove all existing keybindings
 hc keyunbind --all
@@ -22,7 +23,7 @@ Mod=Mod4 # Use the super key as the main modifier
 hc keybind $Mod-Shift-q quit
 hc keybind $Mod-Shift-r reload
 hc keybind $Mod-q close
-hc keybind $Mod-Return spawn kitty # use your $TERMINAL with xterm as fallback
+hc keybind $Mod-Return spawn alacritty # use your $TERMINAL with xterm as fallback
 
 # basic movement in tiling and floating mode
 # focusing clients
@@ -70,6 +71,13 @@ hc keybind $Mod-w spawn firefox
 # volume control
 hc keybind XF86AudioRaiseVolume spawn pactl set-sink-volume @DEFAULT_SINK@ +10%
 hc keybind XF86AudioLowerVolume spawn pactl set-sink-volume @DEFAULT_SINK@ -10%
+
+# brightness control
+hc keybind XF86MonBrightnessUp spawn xbacklight -inc 10
+hc keybind XF86MonBrightnessDown spawn xbacklight -dec 10
+
+# screenshot
+hc keybind $Mod-Shift-p spawn ~/scripts/screenshot.sh
 
 # tags
 tag_names=({1..9})
