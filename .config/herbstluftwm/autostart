@@ -8,11 +8,6 @@ hc() {
 
 hc emit_hook reload
 
-xrandr --output DP-4 --mode 1920x1080 --rate 164.97
-feh --bg-fill Pictures/wall/gruv-buildings.png &
-picom &
-dunst &
-
 # remove all existing keybindings
 hc keyunbind --all
 
@@ -136,7 +131,7 @@ hc set frame_bg_active_color '#8b9e70'
 hc set frame_border_width 0
 hc set always_show_frame on
 hc set frame_bg_transparent on
-hc set frame_gap 30
+hc set frame_gap 35
 
 hc attr theme.title_height 0
 hc attr theme.padding_right 0
@@ -154,7 +149,7 @@ hc attr theme.active.inner_color '#8b9e70'
 hc attr theme.active.outer_color '#8b9e70'
 hc attr theme.background_color '#8b9e70'
 
-hc set window_gap 10
+hc set window_gap 20
 hc set frame_padding 0
 hc set smart_window_surroundings off
 hc set smart_frame_surroundings on
@@ -182,3 +177,9 @@ hc unlock
 # hc set_monitors 1280x1024+0+0 1280x1024+1280+0
 # or simply:
 hc detect_monitors
+
+xrandr --output DP-4 --mode 1920x1080 --rate 164.97
+feh --bg-fill Pictures/wall/gruv-buildings.png &
+picom &
+dunst &
+bash -e /home/taz/.config/lemonbar/lemonbar.sh &

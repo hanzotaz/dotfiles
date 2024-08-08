@@ -1,6 +1,4 @@
 # ···· 🅃🄰🅉'🅂 🄳🄾🅃🅂 ·····  
-Colorscheme generated using pywal  
-with sample image in colorscheme folder.   
 
 ![blank_screenshot](images/blank_screenshot.png)
 Screenshot featuring wallpaper and bar.
@@ -19,7 +17,6 @@ busy screenshot.
 +++ bar      --> lemonbar         +++  
 +++ editor   --> lazyvim          +++  
 +++ launcher --> rofi             +++  
-+++ music    --> mpd · ncmpcpp    +++  
 +++++++++++++++++++++++++++++++++++++  
 +++++++++++++++++++++++++++++++++++++  
 ```

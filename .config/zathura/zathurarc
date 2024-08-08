@@ -1,40 +1,46 @@
-set notification-error-bg       "#282828" # bg
-set notification-error-fg       "#fb4934" # bright:red
-set notification-warning-bg     "#282828" # bg
-set notification-warning-fg     "#fabd2f" # bright:yellow
-set notification-bg             "#282828" # bg
-set notification-fg             "#b8bb26" # bright:green
+# Notification settings
+set notification-error-bg       "#1d2021" # bg (Kitty: inactive_border_color)
+set notification-error-fg       "#cc241d" # red (Kitty: color1)
+set notification-warning-bg     "#1d2021" # bg (Kitty: inactive_border_color)
+set notification-warning-fg     "#d79921" # yellow (Kitty: color3)
+set notification-bg             "#1d2021" # bg (Kitty: inactive_border_color)
+set notification-fg             "#98971a" # green (Kitty: color2)
 
-set completion-bg               "#504945" # bg2
-set completion-fg               "#ebdbb2" # fg
-set completion-group-bg         "#3c3836" # bg1
-set completion-group-fg         "#928374" # gray
-set completion-highlight-bg     "#83a598" # bright:blue
-set completion-highlight-fg     "#504945" # bg2
+# Completion settings
+set completion-bg               "#7c6f64" # fg4 (Kitty: color7)
+set completion-fg               "#3c3836" # foreground (Kitty: foreground)
+set completion-group-bg         "#bdae93" # white (Kitty: color0)
+set completion-group-fg         "#a89984" # white (Kitty: color8)
+set completion-highlight-bg     "#458588" # blue (Kitty: color4)
+set completion-highlight-fg     "#3c3836" # foreground (Kitty: foreground)
 
-# Define the color in index mode
-set index-bg                    "#504945" # bg2
-set index-fg                    "#ebdbb2" # fg
-set index-active-bg             "#83a598" # bright:blue
-set index-active-fg             "#504945" # bg2
+# Index mode settings
+set index-bg                    "#7c6f64" # fg4 (Kitty: color7)
+set index-fg                    "#3c3836" # foreground (Kitty: foreground)
+set index-active-bg             "#458588" # blue (Kitty: color4)
+set index-active-fg             "#3c3836" # foreground (Kitty: foreground)
 
-set inputbar-bg                 "#282828" # bg
-set inputbar-fg                 "#ebdbb2" # fg
+# Input bar settings
+set inputbar-bg                 "#1d2021" # bg (Kitty: inactive_border_color)
+set inputbar-fg                 "#3c3836" # foreground (Kitty: foreground)
 
-set statusbar-bg                "#504945" # bg2
-set statusbar-fg                "#ebdbb2" # fg
+# Status bar settings
+set statusbar-bg                "#7c6f64" # fg4 (Kitty: color7)
+set statusbar-fg                "#3c3836" # foreground (Kitty: foreground)
 
-set highlight-color             "#fabd2f" # bright:yellow
-set highlight-active-color      "#fe8019" # bright:orange
+# Highlight settings
+set highlight-color             "#d79921" # yellow (Kitty: color3)
+set highlight-active-color      "#b16286" # purple (Kitty: color5)
 
-set default-bg                  "#282828" # bg
-set default-fg                  "#ebdbb2" # fg
+# Default settings
+set default-bg                  "#1d2021" # bg (Kitty: inactive_border_color)
+set default-fg                  "#3c3836" # foreground (Kitty: foreground)
 set render-loading              true
-set render-loading-bg           "#282828" # bg
-set render-loading-fg           "#ebdbb2" # fg
+set render-loading-bg           "#1d2021" # bg (Kitty: inactive_border_color)
+set render-loading-fg           "#3c3836" # foreground (Kitty: foreground)
 
-# Recolor book content's color
-set recolor-lightcolor          "#282828" # bg
-set recolor-darkcolor           "#ebdbb2" # fg
+# Recolor book content settings
+set recolor-lightcolor          "#dfe3e1" # background (Kitty: background)
+set recolor-darkcolor           "#3c3836" # foreground (Kitty: foreground)
 set recolor                     "true"
-# set recolor-keephue             true      # keep original color
+
