@@ -1,10 +1,6 @@
 # ···· 🅃🄰🅉'🅂 🄳🄾🅃🅂 ·····  
 
-![blank_screenshot](images/blank_screenshot.png)
-Screenshot featuring wallpaper and bar.
-
-![busy_screenshot](images/busy_screenshot.png)
-busy screenshot.
+![screenshot](images/screenshot.png)
 
 ## 𝚙𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚎𝚜 𝚞𝚜𝚎𝚍
 
